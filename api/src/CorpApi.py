@@ -1,17 +1,17 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 ##
- # Copyright (C) 2018 All rights reserved.
- #   
- # @File CorpApi.py
- # @Brief 
- # @Author abelzhu, abelzhu@tencent.com
- # @Version 1.0
- # @Date 2018-02-24
- #
- #
- 
-from AbstractApi import *
+# Copyright (C) 2018 All rights reserved.
+#
+# @File CorpApi.py
+# @Brief
+# @Author abelzhu, abelzhu@tencent.com
+# @Version 1.0
+# @Date 2018-02-24
+#
+#
+
+from api.src.AbstractApi import *
 
 CORP_API_TYPE = { 
         'GET_ACCESS_TOKEN' : ['/cgi-bin/gettoken', 'GET'],

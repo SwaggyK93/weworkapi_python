@@ -14,8 +14,8 @@
 import sys
 sys.path.append("../src/")
 
-from ServiceCorpApi import *
-from TestConf import * 
+from api.src.ServiceCorpApi import *
+from api.examples.TestConf import * 
 
 
 ## 第三方服务商接口的使用方法
@@ -27,9 +27,9 @@ api = ServiceCorpApi(
 
 try :
     pre_auth_code = api.httpCall(SERVICE_CORP_API_TYPE['GET_PRE_AUTH_CODE']).get('pre_auth_code')
-    print pre_auth_code
+    print (pre_auth_code)
 except ApiException as e :
-    print e.errCode, e.errMsg
+    print (e.errCode, e.errMsg)
 
 
 ## 第三方服务商使用永久授权码调用企业接口的方法
@@ -46,6 +46,6 @@ try :
             { 
                 'userid' : 'zhangsan',
             })
-    print response
+    print (response)
 except ApiException as e :
-    print e.errCode, e.errMsg
+    print (e.errCode, e.errMsg)

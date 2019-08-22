@@ -16,8 +16,8 @@ sys.path.append("../src/")
 
 import random
 
-from CorpApi import *
-from TestConf import * 
+from api.src.CorpApi import *
+from api.examples.TestConf import * 
 
 ## test
 api = CorpApi(TestConf['CORP_ID'], TestConf['APP_SECRET'])
@@ -33,10 +33,10 @@ try :
                 'userlist' : ['LiShuang', 'ZhuShengBen', 'LinJianEn', 'ZhuBiaoYi', 'XuBin', 'yangpeiyi', 'HaLuoTeQu', 'lucky', 'raindong', 'simon', 'Wang', 'ZhaoDong', 'DengLinSheng', 'Li'],
                 'chatid' : chatid,
             })
-    print response 
+    print (response) 
     chatid = response['chatid']
 except ApiException as e :
-    print e.errCode, e.errMsg
+    print (e.errCode, e.errMsg)
 
 try :
     ##
@@ -48,7 +48,7 @@ try :
                 'owner' : 'ZhuShengBen',
                 'add_user_list' : ['huqiqi', 'Wang']
             })
-    print response 
+    print (response)
 
     ##
     response = api.httpCall(
@@ -59,7 +59,7 @@ try :
                 'owner' : 'ZhuBiaoYi',
                 'del_user_list' : 'huqiqi',
             })
-    print response 
+    print (response)
 
     ##
     response = api.httpCall(
@@ -71,7 +71,7 @@ try :
                 'climsgid' : 'climsgidclimsgid_%f' % (random.random()),
                 'safe' : 1,
             })
-    print response 
+    print (response)
 
     ##
     response = api.httpCall(
@@ -85,7 +85,7 @@ try :
                 },
                 'safe' : 1,
             })
-    print response 
+    print (response)
 
     ##
     response = api.httpCall(
@@ -99,7 +99,7 @@ try :
                 },
                 'safe' : 1,
             })
-    print response 
+    print (response)
 
 
     ##
@@ -114,7 +114,7 @@ try :
                 },
                 'safe' : 1,
             })
-    print response 
+    print (response)
 
     ##
     response = api.httpCall(
@@ -128,7 +128,7 @@ try :
                 },
                 'safe' : 1,
             })
-    print response 
+    print (response)
 
     ##
     response = api.httpCall(
@@ -164,7 +164,7 @@ try :
                     'safe' : 1, 
 		}, 
             )
-    print response 
+    print (response)
 
     ##
     response = api.httpCall(
@@ -181,7 +181,7 @@ try :
                 },
                 'safe' : 1,
             })
-    print response 
+    print (response)
 
     ##
     response = api.httpCall(
@@ -217,7 +217,7 @@ try :
                 'climsgid' : 'climsgidclimsgid_%f' % (random.random()),
                 'safe' : 1,
             })
-    print response 
+    print (response)
 
 except ApiException as e :
-    print e.errCode, e.errMsg
+    print (e.errCode, e.errMsg)

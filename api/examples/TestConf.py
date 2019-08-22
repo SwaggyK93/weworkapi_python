@@ -16,7 +16,7 @@
 TestConf = {
 
     # 企业的id，在管理端->"我的企业" 可以看到
-    "CORP_ID"               : "ww55ca070cb9b7eb22",
+    "CORP_ID"               : "wxab249edd27d57738",# teddyjkwang已修改
 
     # "通讯录同步"应用的secret, 开启api接口同步后，可以在管理端->"通讯录同步"看到
     "CONTACT_SYNC_SECRET"   : "ktmzrVIlUH0UW63zi7-JyzsgTL9NfwUhHde6or6zwQY",

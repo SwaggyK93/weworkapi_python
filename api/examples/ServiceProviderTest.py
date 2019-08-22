@@ -13,9 +13,11 @@
  
 import sys
 sys.path.append("../src/")
+sys.path.append("..")
 
-from ServiceProviderApi import *
-from TestConf import * 
+
+from api.src.ServiceProviderApi import *
+from api.examples.TestConf import *
 
 api = ServiceProviderApi('CORPID', 'PROVIDER_SECRET')
 
@@ -25,6 +27,6 @@ try :
             { 
                 'auth_code' : 'XXXXXXX',
             })
-    print response
+    print (response)
 except ApiException as e :
-    print e.errCode, e.errMsg
+    print (e.errCode, e.errMsg)

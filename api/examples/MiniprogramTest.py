@@ -16,8 +16,8 @@ sys.path.append("../src/")
 
 import random
 
-from CorpApi import *
-from TestConf import * 
+from api.src.CorpApi import *
+from api.examples.TestConf import *
 
 ## test
 api = CorpApi(TestConf['CORP_ID'], TestConf['APP_SECRET'])
@@ -30,8 +30,8 @@ try :
                 "js_code" : "sVqtL3itg0L30LTGJtZ_isKC0efG5FqGw470fVp8Dpw",
                 "grant_type" : "authorization_code"
             })
-    print response 
+    print (response)
 
 except ApiException as e :
-    print e.errCode, e.errMsg
+    print (e.errCode, e.errMsg)
 

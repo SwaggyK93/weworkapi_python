@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51bb6f9e-96db-4b38-a90a-df91071a96b0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/api/examples/AppChatTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/examples/AppChatTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/examples/MessageTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/examples/MessageTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/examples/MiniprogramTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/examples/MiniprogramTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/examples/ServiceCorpTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/examples/ServiceCorpTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/examples/ServiceProviderTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/examples/ServiceProviderTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/examples/TestConf.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/examples/TestConf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/examples/UserTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/examples/UserTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/AbstractApi.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/AbstractApi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/CorpApi.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/CorpApi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/ServiceCorpApi.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/ServiceCorpApi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/src/ServiceProviderApi.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/src/ServiceProviderApi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callback/WXBizMsgCrypt.py" beforeDir="false" afterPath="$PROJECT_DIR$/callback/WXBizMsgCrypt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callback/WXBizMsgCrypt3.py" beforeDir="false" afterPath="$PROJECT_DIR$/callback/WXBizMsgCrypt3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callback_json/Sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/callback_json/Sample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/callback_json/WXBizMsgCrypt.py" beforeDir="false" afterPath="$PROJECT_DIR$/callback_json/WXBizMsgCrypt.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="WXBizMsgCrypt.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/callback/WXBizMsgCrypt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1992">
+              <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/examples/MessageTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MiniprogramTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/examples/MiniprogramTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Readme.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/callback_json/Readme.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="Sample.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/callback_json/Sample.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+              <folding>
+                <element signature="e#321#360#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WXBizMsgCrypt.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/callback_json/WXBizMsgCrypt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-109">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#205#218#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppChatTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/examples/AppChatTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CorpApi.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/src/CorpApi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="84" column="21" lean-forward="true" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractApi.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/src/AbstractApi.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1354">
+              <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestConf.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/examples/TestConf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rint response</find>
+      <find>print response</find>
+      <find>print e.errCode, e.errMsg</find>
+      <find>print response</find>
+      <find>print e</find>
+      <find>except Exception,e:</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>print (e.errCode, e.errMsg)</replace>
+      <replace>print (response)</replace>
+      <replace>print (e)</replace>
+      <replace>except Exception as e:</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/api/src/AbstractApi.py" />
+        <option value="$PROJECT_DIR$/api/src/__init__.py" />
+        <option value="$PROJECT_DIR$/api/__init__.py" />
+        <option value="$PROJECT_DIR$/api/src/CorpApi.py" />
+        <option value="$PROJECT_DIR$/api/examples/ServiceProviderTest.py" />
+        <option value="$PROJECT_DIR$/api/src/ServiceProviderApi.py" />
+        <option value="$PROJECT_DIR$/api/src/ServiceCorpApi.py" />
+        <option value="$PROJECT_DIR$/api/examples/AppChatTest.py" />
+        <option value="$PROJECT_DIR$/api/examples/__init__.py" />
+        <option value="$PROJECT_DIR$/api/examples/MessageTest.py" />
+        <option value="$PROJECT_DIR$/api/examples/MiniprogramTest.py" />
+        <option value="$PROJECT_DIR$/api/examples/UserTest.py" />
+        <option value="$PROJECT_DIR$/api/examples/ServiceCorpTest.py" />
+        <option value="$PROJECT_DIR$/callback/WXBizMsgCrypt3.py" />
+        <option value="$PROJECT_DIR$/api/examples/TestConf.py" />
+        <option value="$PROJECT_DIR$/callback_json/WXBizMsgCrypt.py" />
+        <option value="$PROJECT_DIR$/callback/WXBizMsgCrypt.py" />
+        <option value="$PROJECT_DIR$/callback_json/Sample.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="weworkapi_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weworkapi_python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weworkapi_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weworkapi_python" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weworkapi_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weworkapi_python" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weworkapi_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weworkapi_python" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weworkapi_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weworkapi_python" type="462c0819:PsiDirectoryNode" />
+              <item name="callback" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="weworkapi_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="weworkapi_python" type="462c0819:PsiDirectoryNode" />
+              <item name="callback_json" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings sdk-home="$USER_HOME$/anaconda3/bin/python">
+        <option name="mySdkHome" value="$USER_HOME$/anaconda3/bin/python" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api" />
+      <recent name="$PROJECT_DIR$/api/examples" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51bb6f9e-96db-4b38-a90a-df91071a96b0" name="Default" comment="" />
+      <created>1566461675582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566461675582</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32917705" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="SciView" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/api/src/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/ServiceProviderApi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/examples/ServiceCorpTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/examples/ServiceProviderTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/examples/UserTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="55" column="28" lean-forward="true" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/examples/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="115" selection-start-line="1" selection-start-column="115" selection-end-line="1" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/ServiceCorpApi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callback/Readme.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callback/ierror.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callback/WXBizMsgCrypt3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-692">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callback_json/ierror.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callback_json/Readme.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/examples/MiniprogramTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="31" selection-start-line="35" selection-start-column="31" selection-end-line="35" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/examples/AppChatTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/CorpApi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="84" column="21" lean-forward="true" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/src/AbstractApi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1354">
+          <caret line="29" column="6" selection-start-line="29" selection-start-column="6" selection-end-line="29" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/examples/MessageTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/examples/TestConf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callback_json/WXBizMsgCrypt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-109">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#205#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callback/WXBizMsgCrypt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1992">
+          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/callback_json/Sample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
+          <folding>
+            <element signature="e#321#360#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
